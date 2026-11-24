@@ -1,0 +1,8 @@
+{
+  "name": "m6-w1-d1-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Week 5 Day 1 - JavaScript Factory Pattern exercise",
+  "main": "factory/index.js",
+  "scripts": { "start": "node ./factory/index.js" }
+}
